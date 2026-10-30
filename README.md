@@ -1,5 +1,5 @@
 # credit_score
-This project is about the CreditScore 
+This project is about the CreditScore.
 This project was completed under the guidance of
 **Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications,
 LJ Institute of Computer Applications, LJ University, Ahmedabad.
